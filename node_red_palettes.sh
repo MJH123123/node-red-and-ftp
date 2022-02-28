@@ -2,7 +2,7 @@
 
  #######################################
  # Bash script to install NODE-RED palettes
- # Author: jubair
+ # Author: mjh
 
 ## node-red-node-mysql 1.0.1
 npm install node-red-node-mysql
