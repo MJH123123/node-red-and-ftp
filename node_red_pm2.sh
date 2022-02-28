@@ -2,7 +2,7 @@
 
  #######################################
  # Bash script to install NODE-RED and PM2 stack in ubuntu
- # Author: jubair
+ # Author: mjh
 
 ## system update & upgrade
 apt-get update -y
